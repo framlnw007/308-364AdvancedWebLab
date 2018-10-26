@@ -1,0 +1,11 @@
+{
+  "name": "intervallic-multi-requests-example",
+  "description": "Intervallic Multiple HTTP requests example",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
